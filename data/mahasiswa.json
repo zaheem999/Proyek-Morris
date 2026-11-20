@@ -1,0 +1,68 @@
+[
+    {
+        "nim": "6123456789",
+        "nama": "Lamine Yamal",
+        "umur": 19,
+        "jenis_kelamin": "Laki-Laki",
+        "tinggi_cm": 180.0,
+        "berat_kg": 67.0,
+        "olahraga": [
+            {
+                "jenis": "Gym",
+                "durasi_menit": 40,
+                "tanggal": "2026-11-18"
+            }
+        ],
+        "tidur": [
+            {
+                "durasi_jam": 7.0,
+                "kualitas": "Baik",
+                "tanggal": "2026-11-18"
+            }
+        ]
+    },
+    {
+        "nim": "6123567670",
+        "nama": "Paolo Maldini",
+        "umur": 22,
+        "jenis_kelamin": "Laki-Laki",
+        "tinggi_cm": 186.0,
+        "berat_kg": 70.0,
+        "olahraga": [
+            {
+                "jenis": "gym",
+                "durasi_menit": 40,
+                "tanggal": "2026-11-18"
+            }
+        ],
+        "tidur": [
+            {
+                "durasi_jam": 7.0,
+                "kualitas": "Baik",
+                "tanggal": "2026-11-18"
+            }
+        ]
+    },
+    {
+        "nim": "6123565678",
+        "nama": "Kylian Mbappe",
+        "umur": 20,
+        "jenis_kelamin": "Laki-Laki",
+        "tinggi_cm": 180.0,
+        "berat_kg": 66.0,
+        "olahraga": [
+            {
+                "jenis": "lari",
+                "durasi_menit": 40,
+                "tanggal": "2026-11-18"
+            }
+        ],
+        "tidur": [
+            {
+                "durasi_jam": 8.0,
+                "kualitas": "Baik",
+                "tanggal": "2026-11-18"
+            }
+        ]
+    }
+]
